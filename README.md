@@ -13,7 +13,7 @@
 
    # For Linux
    It will set rules for a Granny use type of OS, while there are 65535 open ports usually with Guard only 7 stay up.
-   That, and it will download & update some functionalities meant to protect you from bruteforce.
+   That, and it will download & update some functionalities meant to protect you from brute force.
    
    Due to Linux being usually safe, the first version of Guard functionalities for Linux is not complex, the second version will include SSH disabling & more.
 

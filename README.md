@@ -1,6 +1,6 @@
 # Guard has launched!
 
-#Recommendations
+# Recommendations
 On O&OSU10 go to Actions > Apply recommended only and exit software.
 For HardenTools I recommend you open Advanced Features > & Select everything but CMD.
 

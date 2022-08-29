@@ -1,8 +1,8 @@
 # Guard has launched!
 
 # Recommendations for Windows
-On O&OSU10 go to Actions > Apply recommended only and exit software.
-For HardenTools I recommend you open Advanced Features > & Select everything but CMD.
+ On O&OSU10 go to Actions > Apply recommended only and exit software.
+ For HardenTools I recommend you open Advanced Features > & Select everything but CMD.
 
 # What is Guard?
  Guard is a OS security tool, with the help of 2 supplements it will safeguard your OS.. Works for Linux and Windows.

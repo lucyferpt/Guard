@@ -58,3 +58,5 @@ CARPE DIEM, with care...
 
 
 Thank you for the Favicon Pexels.
+
+Guard V2 was a bit from being published, literally a bit.. now, it's a lenght 8D

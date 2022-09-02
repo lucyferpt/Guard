@@ -15,13 +15,13 @@ Have your graphics driver alongside with Guard OS in a USB Drive, install graphi
    Guard draws HardenTools and O&OSU10 and you can select what you want to do.
 
    # For Linux
+   -UPDATE-
+   Do sudo ufw allow in 9100, and sudo ufw allow out 9100 for Chrome use.
+
    It will set rules for a Granny use type of OS, while there are 65535 open ports usually with Guard only 7 stay up.
    That, and it will download & update some functionalities meant to protect you from brute force.
    
    Due to Linux being usually safe, the first version of Guard functionalities for Linux is not complex, the second version will include SSH disabling & more.
-   
-   -UPDATE-
-   Do sudo ufw allow in 9100, and sudo ufw allow out 9100 for Chrome use.
 
   
 

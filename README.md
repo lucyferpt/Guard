@@ -3,6 +3,9 @@
 # Recommendations for Windows
  On O&OSU10 go to Actions > Apply recommended only and exit software. || For HardenTools I recommend you open Advanced Features > & Select everything but CMD.
 
+-IMPORTANT-
+Have your graphics driver alongside with Guard OS in a USB Drive, install graphics before running Guard.
+
 # What is Guard?
  Guard is a OS security tool, with the help of 2 supplements it will safeguard your OS.. Works for Linux and Windows.
 
@@ -16,6 +19,9 @@
    That, and it will download & update some functionalities meant to protect you from brute force.
    
    Due to Linux being usually safe, the first version of Guard functionalities for Linux is not complex, the second version will include SSH disabling & more.
+   
+   -UPDATE-
+   Do sudo ufw allow in 9100, and sudo ufw allow out 9100 for Chrome use.
 
   
 

@@ -1,6 +1,4 @@
-# USE V2, ONLY UPDATING THIS ONE LATER #9100
-
-# Guard has launched!
+# Guard has launched! USE V2, ONLY UPDATING THIS ONE LATER #9100
 
 # Recommendations for Windows
  On O&OSU10 go to Actions > Apply recommended only and exit software. || For HardenTools I recommend you open Advanced Features > & Select everything but CMD.
